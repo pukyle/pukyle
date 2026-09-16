@@ -1,4 +1,4 @@
-# 🌌 Cheng-Yu Pu (部政佑)
+# Cheng-Yu Pu (部政佑)
 
 <div align="center">
 
