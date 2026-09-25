@@ -1,127 +1,105 @@
-# Cheng-Yu Pu (部政佑)
+<!-- header wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=200&section=header&text=Cheng-Yu%20Pu&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%E9%83%A8%E6%94%BF%E4%BD%91%20%C2%B7%20systems%20%C2%B7%20robotics%20%C2%B7%20world%20models&descAlignY=58&descSize=18" />
 
 <div align="center">
 
-<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=B.S.+in+CS+%40+National+Cheng+Kung+University;Focusing+on+Systems+Programming+%26+Robotics;Research+Assistant+%40+Academia+Sinica+(IIS)">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=B.S.+in+CS+%40+National+Cheng+Kung+University;Focusing+on+Systems+Programming+%26+Robotics;Research+Assistant+%40+Academia+Sinica+(IIS)" alt="Typing SVG" />
+<a href="https://github.com/pukyle">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=%24+insmod+pukyle.ko;CSIE+%40+NCKU+%C2%B7+rank+5%2F165;RA+%40+Academia+Sinica+IIS;teaching+drones+not+to+hit+walls;segfault+%3F+gdb+it." alt="typing" />
 </a>
 
-<p align="center">
-  <a href="mailto:pukyle2129266@gmail.com"><img src="https://img.shields.io/badge/Email-pukyle2129266%40gmail.com-0A84FF?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/pukyle"><img src="https://img.shields.io/badge/GitHub-pukyle-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/NCKU-CSIE_Top_3%25-brightgreen?style=flat-square&logo=mortarboard&logoColor=white" alt="NCKU Ranking" />
-</p>
+<a href="mailto:pukyle2129266@gmail.com"><img src="https://img.shields.io/badge/-pukyle2129266%40gmail.com-0A84FF?style=flat-square&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/NCKU_CSIE-Top_3%25-2EA043?style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=pukyle&style=flat-square&color=58A6FF&label=views" />
 
 </div>
 
----
-
-### 📌 About Me / 關於我
-  
-I am a senior undergraduate student in Computer Science and Information Engineering at **National Cheng Kung University (NCKU)**, ranking **Top 3.0% (5/165, GPA: 4.17/4.3)**. My primary technical interests lie in **operating systems internals, low-level systems programming, and autonomous robotics**. I have hands-on experience building Linux kernel modules and developing 3D autonomous UAV navigation pipelines combining monocular depth estimation and sampling-based motion planning. Currently, I also serve as an undergraduate research assistant at **Academia Sinica (IIS)**, exploring physical state consistency in video world representations.
- 
-我現就讀於**國立成功大學資訊工程學系**（系排名前 3.0%，GPA 4.17/4.3）。主要專注於**作業系統核心、底層系統軟體與無人機自主導航**。具備 Linux Kernel 模組開發與無人機即時避障路徑規劃（AirSim + Depth Anything V2 + informed-RRT*）之實作經驗；目前於**中央研究院資訊科學研究所**擔任兼任研究助理，投入 Video World Model 跨時序物理一致性之前瞻研究。
-
----
-
-### 🎓 Academic Profile & Honors
-
-- **National Cheng Kung University (NCKU)** — *B.S. in Computer Science and Information Engineering* `2023 – 2027`
-  - **Academic Standing**: Cumulative GPA **4.17 / 4.3** | Average Score **92.6**
-  - **Department Ranking**: **5 / 165 (Top 3.0%)** | Class Ranking: **4 / 91 (Top 4.4%)**
-- **Honors & Awards**:
-  - 🏆 **Academic Excellence Award (書卷獎)** — Spring 2025 *(Rank 1 / 165)*
-  - 🏆 **Academic Excellence Award (書卷獎)** — Fall 2025 *(Rank 5 / 165)*
-  - 🎖️ **NCKU CSIE Capstone Exhibition — Honorable Mention (4th Place)** `Jun 2026`
-  - 🏅 **National Collegiate Programming Contest (NCPC) — Finalist** `Oct 2026`
-  - 🎤 **Campus Speaker**, *NCKU Bike Festival* `Feb – Mar 2026`
-
----
-
-### 🔬 Research Experience
-
-#### **Institute of Information Science, Academia Sinica**
-*Part-time Research Assistant* `Sep 2026 – Present`  
-*Summer Research Intern* `Jul 2026 – Aug 2026`  
-- **Advisor**: Dr. Chun-Cheng Chen (陳駿丞 博士)
-- **Topic**: Video World Models & Physical State Representation *(Ongoing Research)*
-  - Investigating physical state continuity and cross-clip dynamics within generative video representations.
-  - Analyzing temporal and geometric coherence across Diffusion, Flow Matching, and Autoregressive paradigms.
-
----
-
-### 🛠️ Featured Projects
-
-#### 🛰️ **Autonomous UAV 3D Navigation via Monocular Depth & Hybrid Path Planning**
-*NCKU Senior Capstone (Ranked 4th / Honorable Mention)* `2025 – 2026`
-- Developed an end-to-end autonomous navigation and obstacle avoidance system for quadrotors within the **AirSim** simulation framework.
-- Integrated **Depth Anything V2** for real-time monocular visual depth estimation and spatial reconstruction.
-- Designed a hybrid trajectory generation architecture powered by **informed-RRT\*** to compute collision-free 3D flight trajectories in complex environments.
-- `Python` `AirSim` `PyTorch` `informed-RRT*` `Depth Anything V2`
-
-#### 🐧 **Linux Kernel Modules & Low-Level Systems Programming**
-*Advanced Operating Systems Project* `2025`
-- Engineered custom loadable kernel modules (LKM) in Linux to deepen understanding of operating system internals and kernel-space synchronization.
-- **Virtual File System (VFS)**: Implemented an in-memory file system abstraction with custom directory entry operations and inode handlers.
-- **Concurrency & Synchronization**: Constructed custom spinlocks using inline **x86 assembly (`lock cmpxchg`)** to evaluate multicore contention overhead.
-- **IPC & Memory**: Developed lightweight inter-process communication mechanisms and evaluated kernel/user-space memory mapping semantics.
-- `C` `x86 Assembly` `Linux Kernel` `POSIX` `LKM`
-
-#### 👁️ **Real-Time Deep Learning Vision Classifier & Interactive GUI**
-*Computer Vision Coursework* `2025`
-- Developed an end-to-end interactive vision suite with PyQt5 and PyTorch supporting live camera feed inferencing.
-- Implemented and tuned CNN architectures (**ResNet-18** and **LeNet-5**), achieving **>90% validation accuracy**.
-- Integrated real-time inference latency tracking, feature map visualization, and dynamic class activation mapping.
-- `Python` `PyTorch` `OpenCV` `PyQt5`
-
----
-
-### 💻 Technical Toolbelt
-
-```
-[Languages]          C · C++ · Python · x86 Assembly · Shell Script
-[Systems & OS]       Linux Kernel Modules · POSIX Threads · Memory Management · Make / CMake
-[Robotics & Vision]  AirSim · OpenCV · PyTorch · Path Planning (RRT/informed-RRT*) · Monocular Depth
-[DevOps & Tools]     Git · Linux (Ubuntu / Arch) · Docker · GDB · Valgrind
+```console
+pukyle@ncku:~$ whoami
+Cheng-Yu Pu · CSIE senior @ National Cheng Kung University (2023–2027)
+pukyle@ncku:~$ cat interests.txt
+os internals · low-level systems · autonomous UAVs · video world models
+pukyle@ncku:~$ uptime
+RA @ Academia Sinica IIS since Jul 2026, load average: coffee, coffee, coffee
 ```
 
+成大資工大四，系排 5/165（GPA 4.17/4.3）。
+
+喜歡往底層鑽：寫過 Linux kernel module，用 `lock cmpxchg` 手刻 spinlock。也做無人機避障，單眼深度估計接 informed-RRT\*，在 AirSim 裡飛。
+
+現在在中研院資訊所當兼任研究助理（陳駿丞老師），研究 video world model 生出來的影片，物理狀態能不能跨片段接得上。
+
+## 🔬 Research
+
+**Academia Sinica, IIS**：Summer Intern `Jul–Aug 2026` → Part-time RA `Sep 2026–now`
+
+看 Diffusion、Flow Matching、Autoregressive 三種生成方式，在時間和幾何上各自能維持多少一致性。還在做，結果之後補。
+
+## 🛠️ Projects
+
+<details open>
+<summary><b>🛰️ 無人機 3D 自主導航</b>　·　畢業專題，系展第 4 名</summary>
 <br/>
 
+```mermaid
+flowchart LR
+    A[📷 單眼影像] --> B[Depth Anything V2]
+    B --> C[3D 障礙物重建]
+    C --> D[informed-RRT*]
+    D --> E[🚁 AirSim 四旋翼]
+    E -. 新的一幀 .-> A
+```
+
+只靠一顆鏡頭估深度，再用 informed-RRT\* 算出不撞牆的 3D 航線。
+
+`Python` `PyTorch` `AirSim`
+</details>
+
+<details>
+<summary><b>🐧 Linux Kernel Modules</b>　·　進階作業系統</summary>
+<br/>
+
+- 記憶體內的檔案系統，自己寫 VFS 的 inode 和 dentry 操作
+- 用 x86 inline assembly（`lock cmpxchg`）刻 spinlock，量多核搶鎖的成本
+- 輕量 IPC，順便摸清楚 kernel/user space 的 memory mapping
+
+`C` `x86 Assembly` `LKM`
+</details>
+
+<details>
+<summary><b>👁️ 即時影像分類 GUI</b>　·　電腦視覺課</summary>
+<br/>
+
+PyQt5 介面接攝影機即時推論，ResNet-18 / LeNet-5 驗證準確率 90% 以上，可以看 feature map 和 CAM。
+
+`PyTorch` `OpenCV` `PyQt5`
+</details>
+
+## 🏆 Honors
+
+| | |
+|---|---|
+| 書卷獎 ×2 | 2025 春（系排 1）、2025 秋（系排 5） |
+| 成大資工系展 佳作（第 4 名） | Jun 2026 |
+| NCPC 全國大專程式設計競賽 決賽 | Oct 2026 |
+| 成大單車節 講者 | Feb–Mar 2026 |
+
+## 🧰 Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,bash,linux,arch,ubuntu,pytorch,opencv,docker,git,cmake&perline=12" />
+</p>
+
+## 📈 Activity
+
 <div align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=pukyle&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="150" src="https://streak-stats.demolab.com?user=pukyle&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pukyle&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pukyle/pukyle/output/github-snake-dark.svg" />
+    <img alt="snake eating contributions" src="https://raw.githubusercontent.com/pukyle/pukyle/output/github-snake.svg" />
+  </picture>
 </div>
 
----
-
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pukyle&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pukyle&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
-</div>
-
----
-
-<div align="center">
-  <sub>Designed for academic & research presentation · Cheng-Yu Pu (部政佑)</sub>
-</div>
-
-<!--
-**pukyle/pukyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=110&section=footer" />
