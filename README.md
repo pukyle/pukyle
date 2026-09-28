@@ -13,21 +13,6 @@
 
 </div>
 
-```console
-pukyle@ncku:~$ whoami
-Cheng-Yu Pu · CSIE senior @ National Cheng Kung University (2023–2027)
-pukyle@ncku:~$ cat interests.txt
-os internals · low-level systems · autonomous UAVs · video world models
-pukyle@ncku:~$ uptime
-RA @ Academia Sinica IIS since Jul 2026, load average: coffee, coffee, coffee
-```
-
-成大資工大四，系排 5/165（GPA 4.17/4.3）。
-
-喜歡往底層鑽：寫過 Linux kernel module，用 `lock cmpxchg` 手刻 spinlock。也做無人機避障，單眼深度估計接 informed-RRT\*，在 AirSim 裡飛。
-
-現在在中研院資訊所當兼任研究助理（陳駿丞老師），研究 video world model 生出來的影片，物理狀態能不能跨片段接得上。
-
 ## 🔬 Research
 
 **Academia Sinica, IIS**：Summer Intern `Jul–Aug 2026` → Part-time RA `Sep 2026–now`
